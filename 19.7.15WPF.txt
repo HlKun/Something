@@ -1,0 +1,5 @@
+https://wenku.baidu.com/view/6eeb308d360cba1aa811daf6.html
+
+https://blog.csdn.net/u012456259/article/details/78330153（WPF DataConten理解）
+DataContent决定了那些属性、字段、命令可以被绑定到用户界面上
+ItemSoure用来实现数据绑定。
